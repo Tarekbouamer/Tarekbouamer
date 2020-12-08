@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/MartinHeinz/Tarekbouamer/Tarekbouamer/wall.jpg "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/Tarekbouamer/Tarekbouamer/wall.jpg "Header")
 <!--
 **Tarekbouamer/Tarekbouamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
