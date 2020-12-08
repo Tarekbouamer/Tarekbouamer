@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - :three: Autonomous Navigation and Learning.
 
 ## 🔨 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- I'm working on Image-Retrieval-for-Image-Based-Localization project [2] 
+- I'm working on Image-Retrieval-for-Image-Based-Localization project ![VisLoc][2] 
 
 
 <!-- Icons -->
