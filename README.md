@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://github.com/Tarekbouamer/Tarekbouamer/blob/main/wall.jpg | width=100 "Header")](https://some-url.dev/)
+[![Header](https://github.com/Tarekbouamer/Tarekbouamer/blob/main/wall.jpg | width=100)](https://some-url.dev/)
 <!--
 **Tarekbouamer/Tarekbouamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Clement's github stats](https://github-readme-stats.vercel.app/api?username=Tarekbouamer)](https://github.com/anuraghazra/github-readme-stats)
+#<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarekbouamer&theme=radical" />
