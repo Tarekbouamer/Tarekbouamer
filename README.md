@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/Tarekbouamer/Tarekbouamer/blob/main/wall.jpg" width="1000" height="400">
+<img src="https://github.com/Tarekbouamer/Tarekbouamer/blob/main/wall.jpg" width="800" height="400">
 <!--
 **Tarekbouamer/Tarekbouamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
