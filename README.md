@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![](https://github.com/Tarekbouamer/Tarekbouamer/blob/main/wall.jpg =250x250)]
+![](https://github.com/Tarekbouamer/Tarekbouamer/blob/main/wall.jpg | width=48)
+
 <!--
 **Tarekbouamer/Tarekbouamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
