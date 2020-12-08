@@ -20,13 +20,12 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-You can find me on on [![LinkedIn][2.2]][1].
+You can find me on on [![LinkedIn][1.1]][1].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://github.com/Tarekbouamer/Tarekbouamer/blob/main/linkedin.png
+[1.1]: https://github.com/Tarekbouamer/Tarekbouamer/blob/main/linkedin.png
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://www.linkedin.com/in/tarek-bouamer-44196a77/
