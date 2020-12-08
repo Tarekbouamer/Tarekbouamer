@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 
 ## ⬆ Research Intrest
 
-:one: Visual Localization and 3D Reconstruction (SFM, SLAM ...).
-:two: Geometric and Semantic Segmentation using DL.
-:three: Autonomous Navigation and Learning.
+- :one: Visual Localization and 3D Reconstruction (SFM, SLAM ...).
+- :two: Geometric and Semantic Segmentation using DL.
+- :three: Autonomous Navigation and Learning.
 
 - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗𝚜 𝚏𝚘𝚛 𝙳𝚛𝚁𝚊𝚌𝚔𝚎𝚝](https://github.com/Raymo111/drracket-customization) 𝚊𝚗𝚍 [**𝚎𝚖𝚘𝚓𝚒**](https://github.com/Raymo111/emoji)
 - 🎯 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚘𝚗 𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛 𝚎𝚗𝚑𝚊𝚗𝚌𝚎𝚖𝚎𝚗𝚝𝚜, 𝚝𝚑𝚒𝚜 𝚁𝙴𝙰𝙳𝙼𝙴, 𝚊𝚗𝚍 𝚖𝚢 𝙺𝚊𝚑𝚘𝚘𝚝 𝙱𝚘𝚝 𝚒𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎.
