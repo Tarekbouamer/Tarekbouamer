@@ -44,9 +44,7 @@ Here are some ideas to get you started:
 - 🖥 Tarek BOUAMER, master graduate from the Paris Saclay University (Ecole CentraleSupelec de Paris).
 - 💼 Research Assistant 𝚊𝚝 the Institute of Computer Graphics and Vision [<img src="https://github.com/Tarekbouamer/Tarekbouamer/blob/main/icg.png" height="30em" align="center" alt="EdgePrim" title="EdgePrim"/>](https://edgeprim.com)  Graz University of Technology [<img src="https://github.com/Tarekbouamer/Tarekbouamer/blob/main/tugraz.png" height="30em" align="center" alt="EdgePrim" title="EdgePrim"/>](https://edgeprim.com)
 - 🎓 Computer Vision and Autonomous Systems.
-- 💻 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚗𝚍 𝙲𝚑𝚒𝚎𝚏 𝙾𝚛𝚐𝚊𝚗𝚒𝚣𝚎𝚛 𝚊𝚝 [<img src="https://youthhax.com/images/yh.png" height="30em" align="center" alt="YouthHax" title="YouthHax"/>](https://edgeprim.com)
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚋𝚎𝚕𝚘𝚠 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
-- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+- :mailbox: tarek.bouamer@icg.tugraz.at
 
 
 
